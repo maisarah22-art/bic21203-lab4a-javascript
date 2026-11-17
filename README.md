@@ -34,15 +34,6 @@ Concepts Used
 - "textContent"
 - "addEventListener()"
 
-Instructions to Run
-
-1. Open the "Question1" folder.
-2. Open "index.html" using a web browser.
-3. The original welcome message will appear.
-4. Click the Change Message button.
-5. The paragraph should change to "Hello there!".
-
-
 ---
 
 Question 2 – Smart Number Validator
@@ -63,25 +54,6 @@ Concepts Used
 - "textContent"
 - "addEventListener()"
 
-Instructions to Run
-
-1. Open the "Question2" folder.
-2. Open "index.html" using a web browser.
-3. Enter a number into the input field.
-4. Click the Check button.
-5. The appropriate validation message will appear below the input.
-
-Test Cases
-
-Input| Expected Result
-5| The number is lower than 10
-10| The number is equal to 10
-15| The number is higher than 10
-abc| Please enter a valid number!
-Empty input| Please enter a valid number!
-10.5| The number is higher than 10
-
-
 ---
 
 Question 3 – Dynamic Number Generator
@@ -101,20 +73,3 @@ Concepts Used
 - "appendChild()"
 - "addEventListener()"
 - DOM manipulation
-
-Instructions to Run
-
-1. Open the "Question3" folder.
-2. Open "index.html" using a web browser.
-3. Click the Generate button.
-4. An ordered list containing five items will appear.
-5. Click the button again to verify that duplicate items are not created.
-
-Expected Output
-
-1. The number is 1
-2. The number is 2
-3. The number is 3
-4. The number is 4
-5. The number is 5
-
